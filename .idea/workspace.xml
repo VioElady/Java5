@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="12e77857-0509-4a39-8f76-06e16108b212" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1UViGvanOOwNLcr4LzMKncGdtpc" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+  </component>
+  <component name="RunManager" selected="Application.CalculatingSales">
+    <configuration name="BarChartPrintingProgram" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="BarChartPrintingProgram" />
+      <module name="Java5" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CalculatingSales" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="CalculatingSales" />
+      <module name="Java5" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FindtheSmallestValue" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="FindtheSmallestValue" />
+      <module name="Java5" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.CalculatingSales" />
+        <item itemvalue="Application.BarChartPrintingProgram" />
+        <item itemvalue="Application.FindtheSmallestValue" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="12e77857-0509-4a39-8f76-06e16108b212" name="Default Changelist" comment="" />
+      <created>1575448070803</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1575448070803</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="566" y="211" width="524" height="502" key="#com.intellij.refactoring.typeMigration.ui.FailedConversionsDialog" timestamp="1575449559541">
+      <screen x="67" y="27" width="1533" height="873" />
+    </state>
+    <state x="566" y="211" width="524" height="502" key="#com.intellij.refactoring.typeMigration.ui.FailedConversionsDialog/67.27.1533.873@67.27.1533.873" timestamp="1575449559541" />
+    <state width="1487" height="244" key="GridCell.Tab.0.bottom" timestamp="1575464575103">
+      <screen x="67" y="27" width="1533" height="873" />
+    </state>
+    <state width="1487" height="244" key="GridCell.Tab.0.bottom/67.27.1533.873@67.27.1533.873" timestamp="1575464575103" />
+    <state width="1487" height="244" key="GridCell.Tab.0.center" timestamp="1575464575102">
+      <screen x="67" y="27" width="1533" height="873" />
+    </state>
+    <state width="1487" height="244" key="GridCell.Tab.0.center/67.27.1533.873@67.27.1533.873" timestamp="1575464575102" />
+    <state width="1487" height="244" key="GridCell.Tab.0.left" timestamp="1575464575102">
+      <screen x="67" y="27" width="1533" height="873" />
+    </state>
+    <state width="1487" height="244" key="GridCell.Tab.0.left/67.27.1533.873@67.27.1533.873" timestamp="1575464575102" />
+    <state width="1487" height="244" key="GridCell.Tab.0.right" timestamp="1575464575102">
+      <screen x="67" y="27" width="1533" height="873" />
+    </state>
+    <state width="1487" height="244" key="GridCell.Tab.0.right/67.27.1533.873@67.27.1533.873" timestamp="1575464575102" />
+    <state width="1487" height="272" key="GridCell.Tab.1.bottom" timestamp="1575452212506">
+      <screen x="67" y="27" width="1533" height="873" />
+    </state>
+    <state width="1487" height="272" key="GridCell.Tab.1.bottom/67.27.1533.873@67.27.1533.873" timestamp="1575452212506" />
+    <state width="1487" height="272" key="GridCell.Tab.1.center" timestamp="1575452212506">
+      <screen x="67" y="27" width="1533" height="873" />
+    </state>
+    <state width="1487" height="272" key="GridCell.Tab.1.center/67.27.1533.873@67.27.1533.873" timestamp="1575452212506" />
+    <state width="1487" height="272" key="GridCell.Tab.1.left" timestamp="1575452212505">
+      <screen x="67" y="27" width="1533" height="873" />
+    </state>
+    <state width="1487" height="272" key="GridCell.Tab.1.left/67.27.1533.873@67.27.1533.873" timestamp="1575452212505" />
+    <state width="1487" height="272" key="GridCell.Tab.1.right" timestamp="1575452212506">
+      <screen x="67" y="27" width="1533" height="873" />
+    </state>
+    <state width="1487" height="272" key="GridCell.Tab.1.right/67.27.1533.873@67.27.1533.873" timestamp="1575452212506" />
+    <state x="489" y="290" key="com.intellij.ide.util.TipDialog" timestamp="1575462774782">
+      <screen x="67" y="27" width="1533" height="873" />
+    </state>
+    <state x="489" y="290" key="com.intellij.ide.util.TipDialog/67.27.1533.873@67.27.1533.873" timestamp="1575462774782" />
+  </component>
+</project>
